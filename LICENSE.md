@@ -36,6 +36,9 @@ Clarifications:
 Direct monetary gains from this software are in violation of this license.
 
 Warranty Notice:
-  This software is provided without warranty, meaning you can not hold Craftnut or any contributors to the Helium license accountable for any damages or issues caused by the utilization of this license in your own projects.
+  This software is provided without a warranty, IE: all functionality provided by software held openly under this license is offered AS-IS, and there is no provisioned guarantee of continued maintenance, modification, or commercial viability.
+  
+Liability Notice:
+  This software is free as in freedom, free as in price, and open source. Users or consumers of software held under this license may not hold Craftnut or any contributors to the Helium license accountable for any damages or issues to systems, workflows, communities, infrastructure, or any other digital construct, caused by or correlated to the utilization of software protected under this license.
 
 If you think this license has been violated, please contact the copyright holder(s).
